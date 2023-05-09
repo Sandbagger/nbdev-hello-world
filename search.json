@@ -1,30 +1,23 @@
 [
   {
-    "objectID": "core.html",
-    "href": "core.html",
-    "title": "core",
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello world",
     "section": "",
-    "text": "source\n\nfoo\n\n foo ()"
+    "text": "I have been following Practical Deep Learning for Coders and noted how Jeremy was a big advocate of “notebook-driven development”.\nThis is a departure from how I am used to writing code in my dayjob as a software engineer. I use VSCode as my code editor of choice and I write documentation in Confluence. I rarely write code comments, favouring expressive and declarative code that is more or less self-explanatory, with tests that act as documentation for other developers.\nWhilst learning deep learning in my own time, I have come to recognise the importance of REPL for exploring data i.e. being able to draw a graph on the fly, so as to be able to “sense check” the data.\nI have previously tried using notebooks but found that they did not play nicely together with version control due to superfluous metadata changes causing merge conflicts and spoiling the fun. Back in August 2022, Jeremey trailed a system involving notebooks, nbdev, quantro which together with some pre-commit hooks, enables notebooks to be committed to git without conflicts (read more about it here).\nI am going to give this system a whirl, and another unexpected side benefit of using this system is that quantro is packaged with a blogging solution. One of my favourite things to do is to want to start blogging, but not actually start blogging, because I get stuck over-engineering a fancy (Next.js) blog. No more. I hereby swear that I will use quantro for my ready-made blogging needs.\nSo “Hello world!”, I’ve finally become a debutant blogger!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nbdev-hello-world",
+    "title": "sandbagger",
     "section": "",
-    "text": "This file will become your README and also the index of your documentation."
+    "text": "Hello world\n\n\n\n\n\n\n\nfastai\n\n\npdlfc\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2023\n\n\nWilliam Neal\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#install",
-    "href": "index.html#install",
-    "title": "nbdev-hello-world",
-    "section": "Install",
-    "text": "Install\npip install nbdev_hello_world"
-  },
-  {
-    "objectID": "index.html#how-to-use",
-    "href": "index.html#how-to-use",
-    "title": "nbdev-hello-world",
-    "section": "How to use",
-    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   }
 ]

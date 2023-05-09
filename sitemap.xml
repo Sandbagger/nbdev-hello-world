@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Sandbagger.github.io/nbdev-hello-world/core.html</loc>
-    <lastmod>2023-05-09T14:03:11.692Z</lastmod>
+    <loc>https://Sandbagger.github.io/nbdev-hello-world/posts/hello-world/index.html</loc>
+    <lastmod>2023-05-09T15:54:42.130Z</lastmod>
   </url>
   <url>
     <loc>https://Sandbagger.github.io/nbdev-hello-world/index.html</loc>
-    <lastmod>2023-05-09T14:03:12.752Z</lastmod>
+    <lastmod>2023-05-09T15:54:42.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Sandbagger.github.io/nbdev-hello-world/about.html</loc>
+    <lastmod>2023-05-09T15:54:43.097Z</lastmod>
   </url>
 </urlset>
